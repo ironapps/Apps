@@ -1,1 +1,9 @@
-theme: jekyll-theme-hacker
+- url: /(.+)
+   file: static/\1.html
+# example 404.md
+
+layout: default
+permalink: /404.html
+---
+
+# 404
