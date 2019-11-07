@@ -1,7 +1,4 @@
-- url: /(.+)
-   file: static/\1.html
-# example 404.md
-
+permalink: /:title/
 layout: default
 permalink: /404.html
 ---
